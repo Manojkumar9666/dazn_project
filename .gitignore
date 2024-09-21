@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+myenv/
+
+
+
+
+
+# PyInstaller
+# Usually contains a file named 'run.py'
+build/
+dist/
+*.spec
+
+
+# pyenv
+.python-version
+
+
+
+
+
+# Pyre type checker
+.pyre/
